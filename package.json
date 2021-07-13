@@ -27,12 +27,18 @@
   },
   "private": true,
   "dependencies": {
+    "@ionic/core": "^0.5.2",
     "@nrwl/next": "12.5.8",
+    "@stitches/react": "^0.2.2",
     "core-js": "^3.6.5",
     "document-register-element": "1.13.1",
+    "firebase": "^8.7.1",
+    "firebase-admin": "^9.10.0",
     "next": "^11.0.1",
+    "next-firebase-auth": "^0.13.2",
     "react": "^18.0.0-alpha-464f27572-20210713",
     "react-dom": "^18.0.0-alpha-464f27572-20210713",
+    "react-firebaseui": "^5.0.2",
     "regenerator-runtime": "0.13.7",
     "tslib": "^2.0.0"
   },

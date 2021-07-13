@@ -1,0 +1,286 @@
+[Log] SAVING (2.chunk.js, line 11945)
+Object
+
+1625159533594: {video: Object, time: 0, annotations: []}
+
+1625159534316: {time: 0.722, annotations: Array, video: Object}
+
+1625159534320: {time: 0.726, annotations: Array, video: Object}
+
+1625159534345: {time: 0.751, annotations: Array, video: Object}
+
+1625159534400: {time: 0.806, annotations: Array, video: Object}
+
+1625159534405: {time: 0.811, annotations: Array, video: Object}
+
+1625159534411: {time: 0.817, annotations: Array, video: Object}
+
+1625159534421: {time: 0.827, annotations: Array, video: Object}
+
+1625159534434: {time: 0.84, annotations: Array, video: Object}
+
+1625159534444: {time: 0.85, annotations: Array, video: Object}
+
+1625159534455: {time: 0.861, annotations: Array, video: Object}
+
+1625159534468: {time: 0.874, annotations: Array, video: Object}
+
+1625159534489: {time: 0.895, annotations: Array, video: Object}
+
+1625159534522: {time: 0.928, annotations: Array, video: Object}
+
+1625159534534: {time: 0.94, annotations: Array, video: Object}
+
+1625159534545: {time: 0.951, annotations: Array, video: Object}
+
+1625159534558: {time: 0.964, annotations: Array, video: Object}
+
+1625159534567: {time: 0.973, annotations: Array, video: Object}
+
+1625159534579: {time: 0.985, annotations: Array, video: Object}
+
+1625159534592: {time: 0.998, annotations: Array, video: Object}
+
+1625159534601: {time: 1.007, annotations: Array, video: Object}
+
+1625159534613: {time: 1.019, annotations: Array, video: Object}
+
+1625159534625: {time: 1.031, annotations: Array, video: Object}
+
+1625159534635: {time: 1.041, annotations: Array, video: Object}
+
+1625159534647: {time: 1.053, annotations: Array, video: Object}
+
+1625159534659: {time: 1.065, annotations: Array, video: Object}
+
+1625159534669: {time: 1.075, annotations: Array, video: Object}
+
+1625159534684: {time: 1.09, annotations: Array, video: Object}
+
+1625159534694: {time: 1.1, annotations: Array, video: Object}
+
+1625159534703: {time: 1.109, annotations: Array, video: Object}
+
+1625159534718: {time: 1.124, annotations: Array, video: Object}
+
+1625159534725: {time: 1.131, annotations: Array, video: Object}
+
+1625159534736: {time: 1.142, annotations: Array, video: Object}
+
+1625159534751: {time: 1.157, annotations: Array, video: Object}
+
+1625159534759: {time: 1.165, annotations: Array, video: Object}
+
+1625159534983: {time: 1.389, annotations: Array, video: Object}
+
+1625159534986: {time: 1.392, annotations: Array, video: Object}
+
+1625159534996: {time: 1.402, annotations: Array, video: Object}
+
+1625159535008: {time: 1.414, annotations: Array, video: Object}
+
+1625159535018: {time: 1.424, annotations: Array, video: Object}
+
+1625159535029: {time: 1.435, annotations: Array, video: Object}
+
+1625159535042: {time: 1.448, annotations: Array, video: Object}
+
+1625159535051: {time: 1.457, annotations: Array, video: Object}
+
+1625159535063: {time: 1.469, annotations: Array, video: Object}
+
+1625159535076: {time: 1.482, annotations: Array, video: Object}
+
+1625159535085: {time: 1.491, annotations: Array, video: Object}
+
+1625159535097: {time: 1.503, annotations: Array, video: Object}
+
+1625159535108: {time: 1.514, annotations: Array, video: Object}
+
+1625159535119: {time: 1.525, annotations: Array, video: Object}
+
+1625159535131: {time: 1.537, annotations: Array, video: Object}
+
+1625159535142: {time: 1.548, annotations: Array, video: Object}
+
+1625159535154: {time: 1.56, annotations: Array, video: Object}
+
+1625159535168: {time: 1.574, annotations: Array, video: Object}
+
+1625159535177: {time: 1.583, annotations: Array, video: Object}
+
+1625159535188: {time: 1.594, annotations: Array, video: Object}
+
+1625159535201: {time: 1.607, annotations: Array, video: Object}
+
+1625159535211: {time: 1.617, annotations: Array, video: Object}
+
+1625159535221: {time: 1.627, annotations: Array, video: Object}
+
+1625159535234: {time: 1.64, annotations: Array, video: Object}
+
+1625159535244: {time: 1.65, annotations: Array, video: Object}
+
+1625159535255: {time: 1.661, annotations: Array, video: Object}
+
+1625159535269: {time: 1.675, annotations: Array, video: Object}
+
+1625159535279: {time: 1.685, annotations: Array, video: Object}
+
+1625159535292: {time: 1.698, annotations: Array, video: Object}
+
+1625159535301: {time: 1.707, annotations: Array, video: Object}
+
+1625159535312: {time: 1.718, annotations: Array, video: Object}
+
+1625159535325: {time: 1.731, annotations: Array, video: Object}
+
+1625159535333: {time: 1.739, annotations: Array, video: Object}
+
+1625159535346: {time: 1.752, annotations: Array, video: Object}
+
+1625159535369: {time: 1.775, annotations: Array, video: Object}
+
+1625159535662: {time: 2.068, annotations: Array, video: Object}
+
+1625159535740: {time: 2.146, annotations: Array, video: Object}
+
+1625159535751: {time: 2.157, annotations: Array, video: Object}
+
+1625159535772: {time: 2.178, annotations: Array, video: Object}
+
+1625159535784: {time: 2.19, annotations: Array, video: Object}
+
+1625159535806: {time: 2.212, annotations: Array, video: Object}
+
+1625159536013: {time: 2.419, annotations: Array, video: Object}
+
+1625159536021: {time: 2.427, annotations: Array, video: Object}
+
+1625159536030: {time: 2.436, annotations: Array, video: Object}
+
+1625159536044: {time: 2.45, annotations: Array, video: Object}
+
+1625159536052: {time: 2.458, annotations: Array, video: Object}
+
+1625159536067: {time: 2.473, annotations: Array, video: Object}
+
+1625159536076: {time: 2.482, annotations: Array, video: Object}
+
+1625159536086: {time: 2.492, annotations: Array, video: Object}
+
+1625159536105: {time: 2.511, annotations: Array, video: Object}
+
+1625159536111: {time: 2.517, annotations: Array, video: Object}
+
+1625159536120: {time: 2.526, annotations: Array, video: Object}
+
+1625159536135: {time: 2.541, annotations: Array, video: Object}
+
+1625159536143: {time: 2.549, annotations: Array, video: Object}
+
+1625159536154: {time: 2.56, annotations: Array, video: Object}
+
+1625159536168: {time: 2.574, annotations: Array, video: Object}
+
+1625159536177: {time: 2.583, annotations: Array, video: Object}
+
+1625159536191: {time: 2.597, annotations: Array, video: Object}
+
+1625159536200: {time: 2.606, annotations: Array, video: Object}
+
+1625159536211: {time: 2.617, annotations: Array, video: Object}
+
+1625159536619: {time: 3.025, annotations: Array, video: Object}
+
+1625159536629: {time: 3.035, annotations: Array, video: Object}
+
+1625159536633: {time: 3.039, annotations: Array, video: Object}
+
+1625159536641: {time: 3.047, annotations: Array, video: Object}
+
+1625159536649: {time: 3.055, annotations: Array, video: Object}
+
+1625159536661: {time: 3.067, annotations: Array, video: Object}
+
+1625159536671: {time: 3.077, annotations: Array, video: Object}
+
+1625159536684: {time: 3.09, annotations: Array, video: Object}
+
+1625159536695: {time: 3.101, annotations: Array, video: Object}
+
+1625159536708: {time: 3.114, annotations: Array, video: Object}
+
+1625159536717: {time: 3.123, annotations: Array, video: Object}
+
+1625159536729: {time: 3.135, annotations: Array, video: Object}
+
+1625159536742: {time: 3.148, annotations: Array, video: Object}
+
+1625159536750: {time: 3.156, annotations: Array, video: Object}
+
+1625159536762: {time: 3.168, annotations: Array, video: Object}
+
+1625159536775: {time: 3.181, annotations: Array, video: Object}
+
+1625159536785: {time: 3.191, annotations: Array, video: Object}
+
+1625159536800: {time: 3.206, annotations: Array, video: Object}
+
+1625159536809: {time: 3.215, annotations: Array, video: Object}
+
+1625159536819: {time: 3.225, annotations: Array, video: Object}
+
+1625159536834: {time: 3.24, annotations: Array, video: Object}
+
+1625159536842: {time: 3.248, annotations: Array, video: Object}
+
+1625159536853: {time: 3.259, annotations: Array, video: Object}
+
+1625159536864: {time: 3.27, annotations: Array, video: Object}
+
+1625159536875: {time: 3.281, annotations: Array, video: Object}
+
+1625159536885: {time: 3.291, annotations: Array, video: Object}
+
+1625159536897: {time: 3.303, annotations: Array, video: Object}
+
+1625159536909: {time: 3.315, annotations: Array, video: Object}
+
+1625159536920: {time: 3.326, annotations: Array, video: Object}
+
+1625159536934: {time: 3.34, annotations: Array, video: Object}
+
+1625159536942: {time: 3.348, annotations: Array, video: Object}
+
+1625159536952: {time: 3.358, annotations: Array, video: Object}
+
+1625159536968: {time: 3.374, annotations: Array, video: Object}
+
+1625159536976: {time: 3.382, annotations: Array, video: Object}
+
+1625159536986: {time: 3.392, annotations: Array, video: Object}
+
+1625159537000: {time: 3.406, annotations: Array, video: Object}
+
+1625159537010: {time: 3.416, annotations: Array, video: Object}
+
+1625159537020: {time: 3.426, annotations: Array, video: Object}
+
+1625159537035: {time: 3.441, annotations: Array, video: Object}
+
+1625159537043: {time: 3.449, annotations: Array, video: Object}
+
+1625159537053: {time: 3.459, annotations: Array, video: Object}
+
+1625159537072: {time: 3.478, annotations: Array, video: Object}
+
+1625159537079: {time: 3.485, annotations: Array, video: Object}
+
+1625159537087: {time: 3.493, annotations: Array, video: Object}
+
+1625159537101: {time: 3.507, annotations: Array, video: Object}
+
+1625159539667: {video: Object, annotations: Array, time: 6.073}
+
+Object Prototype
